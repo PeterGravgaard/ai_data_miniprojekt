@@ -23,7 +23,8 @@ Strukturér data i minimum 2 relationelle databaser (se eksempel fra Forelæsnin
 Eksempler på data
 https://www.kaggle.com/datasets/slmsshk/medical-students-dataset
 https://www.kaggle.com/datasets/matinmahmoudi/sales-and-satisfaction
-https://www.kaggle.com/datasets/redlineracer/nfl-combine-performance-data-2009-2019https://www.kaggle.com/datasets/yasserh/horse-survival-dataset
+https://www.kaggle.com/datasets/redlineracer/nfl-combine-performance-data-2009-2019
+https://www.kaggle.com/datasets/yasserh/horse-survival-dataset
 
 
 
